@@ -1,4 +1,4 @@
-# API Web do ASP.NET executada no .NET Core. A API Web
+# API Web do ASP.NET executada no .NET Core.
 
 ## Descrição do Projeto
 <p align="center">Esse projeto cria, lê, atualiza e exclui pizzas de um cache na memória explorando a criação de um serviço RESTful multiplataforma usando controladores da 
